@@ -1,0 +1,34 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Rohit Sharma",
+      "email": "rohit.sharma@gmail.com",
+      "phone": "844112233"
+    },
+    {
+      "id": 2,
+      "name": "Shubman Gill",
+      "email": "shubman.gill@in.com",
+      "phone": "844223344"
+    },
+    {
+      "id": 6,
+      "name": "Mohd Amir Ahmad",
+      "email": "ahmad.amir@gmail.com",
+      "phone": "844766068"
+    },
+    {
+      "id": 7,
+      "name": "Virat Kohli",
+      "email": "virat.kohli@gmail.com",
+      "phone": "844667788"
+    },
+    {
+      "id": 9,
+      "name": "Mohammad Shami",
+      "email": "m.shami@gmail.com",
+      "phone": "9889112233"
+    }
+  ]
+}
